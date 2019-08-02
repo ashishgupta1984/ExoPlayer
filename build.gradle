@@ -46,5 +46,7 @@ allprojects {
     }
     group = 'com.google.android.exoplayer'
 }
-
+test {
+    exclude '**/*'
+}
 apply from: 'javadoc_combined.gradle'
