@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.com/ashishgupta1984/ExoPlayer.svg?branch=dev_v2_travisci)](https://travis-ci.com/ashishgupta1984/ExoPlayer)
+
 # ExoPlayer #
 
 ExoPlayer is an application level media player for Android. It provides an
@@ -141,4 +144,3 @@ implementation project(':exoplayer-library-ui')
 To develop ExoPlayer using Android Studio, simply open the ExoPlayer project in
 the root directory of the repository.
 
-[![Build Status](https://travis-ci.com/ashishgupta1984/ExoPlayer.svg?branch=dev_v2_travisci)](https://travis-ci.com/ashishgupta1984/ExoPlayer)
